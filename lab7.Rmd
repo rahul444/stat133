@@ -1,0 +1,24 @@
+---
+title: "Lab 7"
+author: "Rahul Bhatt"
+date: "3/28/17"
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+
+1. I see a list of all directories: Desktop Documents Library Movies Music Pictures
+
+
